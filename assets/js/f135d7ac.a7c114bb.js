@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkios_docs=self.webpackChunkios_docs||[]).push([[3524],{2687:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/ios-docs/blog/tags/facebook","allTagsPath":"/ios-docs/blog/tags","count":1}')}}]);

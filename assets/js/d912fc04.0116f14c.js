@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkios_docs=self.webpackChunkios_docs||[]).push([[4267],{5044:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/ios-docs/blog/tags/hola","allTagsPath":"/ios-docs/blog/tags","count":1}')}}]);

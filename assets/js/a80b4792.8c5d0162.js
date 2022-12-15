@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkios_docs=self.webpackChunkios_docs||[]).push([[3840],{1320:s=>{s.exports=JSON.parse('{"permalink":"/ios-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
